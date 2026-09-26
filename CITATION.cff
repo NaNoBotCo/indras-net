@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Indra's Net, Drawn: a plain-spoken 'splainer, read many ways and drawn from the math of mirrors"
+message: "If you use these pictures, diagrams or text, cite as below and keep the credit line."
+type: software
+authors:
+  - name: "Nan"
+    website: "https://hongdam.net"
+repository-code: "https://github.com/NaNoBotCo/indras-net"
+url: "https://nanobotco.github.io/indras-net/"
+license: CC-BY-4.0
+date-released: "2026-09-26"
+keywords:
+  - Indra's net
+  - Huayan
+  - dependent origination
+  - interbeing
+  - circle inversion
+  - Kleinian groups
+  - Indra's Pearls
+  - small-world networks

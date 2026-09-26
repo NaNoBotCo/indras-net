@@ -1,0 +1,15 @@
+{
+  "name": "Indra's Net, Drawn",
+  "short_name": "Indra's Net",
+  "start_url": "/indras-net/",
+  "display": "standalone",
+  "background_color": "#07070b",
+  "theme_color": "#07070b",
+  "icons": [
+    {
+      "src": "/indras-net/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+Indra's Net, Drawn — what is in this repository, and under what terms.
+
+CODE — tools/, tests/, js/, indras_net.py, publish.sh
+    SPDX-License-Identifier: MIT — see LICENSE-CODE.
+
+TEXT, DIAGRAMS AND PICTURES — the pages in docs/, the SVG figures in them, card.jpg, README.md
+    SPDX-License-Identifier: CC-BY-4.0 — see LICENSE. Credit line: "Nan · hongdam.net · CC BY 4.0",
+    with a link to https://nanobotco.github.io/indras-net/ .
+    Every figure is computed by tools/figures.py or js/net.js from the mirror arithmetic it shows.
+
+QUOTED AND CITED MATERIAL
+    Sources are cited by number on the sources page and linked. Short quotations only: Leibniz (1714),
+    Fox (1656), Muir (1911), and the Pali formula of dependent origination.
+
+ROSTER — data/fleet.json, tools/fleet.py
+    The publisher's list of sites, copied from the index repository.
