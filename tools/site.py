@@ -338,8 +338,8 @@ READINGS = [
      not standin' on its own either.</p>""",
      "The jewel's still there, hangin' on its knot. Empty ain't the same as gone."),
     ("interbeing", "There's a cloud in this paper", "Thích Nhất Hạnh", "#c8a6ff",
-     lambda: f"""<p>The Vietnamese Zen teacher Thích Nhất Hạnh held up a sheet of paper and said if you look
-     good, there's a cloud in it — no cloud, no rain; no rain, no tree; no tree, no paper. And the
+     lambda: f"""<p>The Vietnamese Zen teacher Thích Nhất Hạnh held up a sheet of paper and said if you squint real hard,
+     there's a cloud in it — no cloud, no rain; no rain, no tree; no tree, no paper. And the
      logger, and his breakfast. His word for it was <em>interbeing</em>{cite("tnh1988")}.</p>""",
      "He's talkin' about causes, one after another, back through time. The jewels shine all at once."),
     ("phrain", "Phra In and the city pillar", "Thai and Lanna", "#ffc861",
