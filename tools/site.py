@@ -349,7 +349,7 @@ READINGS = [
      <span class="th">เสาอินทขิล</span> (<em>Sao Inthakhin</em>), is told as sent down by him, and the
      city honors it every year{cite("inthakhin")}. The shrine it stands in is on
      <a href="https://motdang.net/cm/p/ho-inthakhin-city-pillar-shrine-chiang-mai-441418807.html">Mot Dang</a>,
-     with a map and the way there. More on the Lanna side at
+     with a map and the way there, in its <a href="https://motdang.net/cm/index.html">เชียงใหม่ · Chiang Mai</a> directory. More on the Lanna side at
      {sib("wichaa", "wichaa")}.</p>""",
      "In Thai tellin's Phra In is a helper god who shows up when good folks need him. The jewel net is mostly a Chinese Buddhist picture; it isn't a Thai temple story."),
     ("monads", "A living mirror of the universe", "Leibniz, 1714", "#8fd0ff",

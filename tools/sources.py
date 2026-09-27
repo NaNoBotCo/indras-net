@@ -18,11 +18,11 @@ SOURCES = [
     ("mmk2418", "Nāgārjuna, Mūlamadhyamakakārikā 24.18 — whatever arises dependently is what is called emptiness. Jay L. Garfield, trans., The Fundamental Wisdom of the Middle Way (Oxford, 1995).", "https://en.wikipedia.org/wiki/M%C5%ABlamadhyamakak%C4%81rik%C4%81"),
     ("tnh1988", "Thích Nhất Hạnh, The Heart of Understanding: Commentaries on the Prajñaparamita Heart Sutra (Parallax Press, 1988) — the cloud in the sheet of paper, and the word “interbeing”.", "https://en.wikipedia.org/wiki/Interbeing"),
     ("dn21", "Dīgha Nikāya 21 (Sakkapañha Sutta) — Sakka, the Pāli name for Indra, lord of the Tāvatiṃsa heaven, puts his questions to the Buddha.", "https://suttacentral.net/dn21/en/sujato"),
-    ("traiphum", "Frank E. Reynolds & Mani B. Reynolds, trans., Three Worlds According to King Ruang: A Thai Buddhist Cosmology (Berkeley, 1982) — the Traiphum, with Indra's city on the top of Mount Meru.", "https://en.wikipedia.org/wiki/Traiphum_Phra_Ruang"),
+    ("traiphum", "Frank E. Reynolds & Mani B. Reynolds, trans., Three Worlds According to King Ruang: A Thai Buddhist Cosmology (Berkeley, 1982) — the Traiphum, with Indra's city on the top of Mount Meru.", ""),
     ("inthakhin", "The Inthakhin city pillar of Chiang Mai, housed at Wat Chedi Luang, and the yearly Inthakhin festival; the founding legend has the pillar sent down by Indra.", "https://en.wikipedia.org/wiki/Wat_Chedi_Luang"),
     # ---- other folks' mirrors
     ("leibniz1714", "G. W. Leibniz, The Monadology (1714), §56: each simple substance is “a perpetual living mirror of the universe”. Robert Latta, trans. (Oxford, 1898).", "https://en.wikipedia.org/wiki/Monadology"),
-    ("fox1656", "George Fox, letter from Launceston jail, 1656: “walk cheerfully over the world, answering that of God in every one.” The Journal of George Fox.", "https://en.wikipedia.org/wiki/That_of_God_in_every_one"),
+    ("fox1656", "George Fox, letter from Launceston jail, 1656: “walk cheerfully over the world, answering that of God in every one.” The Journal of George Fox.", ""),
     ("muir1911", "John Muir, My First Summer in the Sierra (Boston, 1911), p. 110: “When we try to pick out anything by itself, we find it hitched to everything else in the Universe.”", "https://vault.sierraclub.org/john_muir_exhibit/writings/misquotes.aspx"),
     # ---- science rhymes
     ("gabor1948", "Dennis Gabor, “A New Microscopic Principle”, Nature 161 (1948) 777–778 — the invention of holography.", "https://doi.org/10.1038/161777a0"),
