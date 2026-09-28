@@ -1,7 +1,7 @@
 /* Indra's Net, Drawn */
 A plain-spoken 'splainer of Indra's Net — the old picture of a net with a jewel at every knot, each jewel showin' all the others — read many ways, and drawn from the math of mirrors.
 
-Built 2026-09-26.
+Built 2026-09-28.
 Text & figures CC BY 4.0 · code MIT.
 
 # — roster of sibling sites, generated from data/fleet.json —
