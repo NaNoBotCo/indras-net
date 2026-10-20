@@ -16,6 +16,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import fleet  # noqa: E402
+import ogcards  # noqa: E402
 from css import CSS  # noqa: E402
 import sources as S  # noqa: E402
 
@@ -196,6 +197,8 @@ def demo(stage, ctl="", row="", read_id=""):
 def write(path, s):
     p = SITE / path
     p.parent.mkdir(parents=True, exist_ok=True)
+    if path.endswith(".html"):
+        s = ogcards.apply(s, path, SITE_URL)
     p.write_text(s, encoding="utf-8")
 
 
@@ -671,6 +674,7 @@ def machine_files():
 
 def build_all():
     SITE.mkdir(parents=True, exist_ok=True)
+    ogcards.copy(ROOT, SITE)
     page_home(); page_story(); page_readings(); page_pearls(); page_touch()
     page_code(); page_words(); page_sources(); page_404()
     touched = machine_files()
