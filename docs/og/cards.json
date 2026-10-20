@@ -1,0 +1,30 @@
+{
+ "code/": {
+  "alt": "Card: Do it yourself, Indra's Net, Drawn",
+  "image": "og/code.jpg"
+ },
+ "pearls/": {
+  "alt": "Card: Mirrors in mirrors, Indra's Net, Drawn",
+  "image": "og/pearls.jpg"
+ },
+ "readings/": {
+  "alt": "Card: Many ways to read it, Indra's Net, Drawn",
+  "image": "og/readings.jpg"
+ },
+ "sources/": {
+  "alt": "Card: Sources, Indra's Net, Drawn",
+  "image": "og/sources.jpg"
+ },
+ "story/": {
+  "alt": "Card: Where the picture comes from, Indra's Net, Drawn",
+  "image": "og/story.jpg"
+ },
+ "touch/": {
+  "alt": "Card: Touch one, touch all, Indra's Net, Drawn",
+  "image": "og/touch.jpg"
+ },
+ "words/": {
+  "alt": "Card: Words, Indra's Net, Drawn",
+  "image": "og/words.jpg"
+ }
+}
